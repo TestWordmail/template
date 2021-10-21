@@ -1,7 +1,8 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* CoolDevGA
+* Arnav P
+* Guhanesh K
 
 
